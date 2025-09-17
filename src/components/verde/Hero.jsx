@@ -4,10 +4,10 @@ import { motion, AnimatePresence } from 'framer-motion';
 
 const APPLY_URL = "https://lincolnprprts.appfolio.com/apply/cce9fd15-8974-4faf-a352-b8ee9a8e41e5/start?source=Website";
 const slideshowImages = [
-  "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/1dfe32c12_Hero.jpg",
-  "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/db32f5c1e_VG-LivingArea-Wide.png",
-  "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/cc471a565_Hero.jpg",
-  "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/68cb02eeec03a977caa9230c/489885092_DormChurch.jpg"
+  "https://picsum.photos/1920/1080?random=100",
+  "https://picsum.photos/1920/1080?random=101",
+  "https://picsum.photos/1920/1080?random=102",
+  "https://picsum.photos/1920/1080?random=103"
 ];
 
 export default function Hero() {

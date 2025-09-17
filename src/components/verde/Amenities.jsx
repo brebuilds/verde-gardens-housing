@@ -10,22 +10,22 @@ export default function Amenities() {
 
   const interiorImages = [
     {
-      src: 'https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/68cb02eeec03a977caa9230c/461f9988c_DSC07665.jpg',
+      src: 'https://picsum.photos/400/400?random=1000',
       alt: 'Cozy living area with modern furniture',
       title: 'Living Spaces'
     },
     {
-      src: 'https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/68cb02eeec03a977caa9230c/fdca958fc_DSC07704.jpg',
+      src: 'https://picsum.photos/400/400?random=1001',
       alt: 'Comfortable bedroom setup',
       title: 'Private Rooms'
     },
     {
-      src: 'https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/68cb02eeec03a977caa9230c/47268c48b_DSC07676.jpg',
+      src: 'https://picsum.photos/400/400?random=1002',
       alt: 'Fully equipped modern kitchen',
       title: 'Full Kitchen'
     },
     {
-      src: 'https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/68cb02eeec03a977caa9230c/3172e95ee_DSC07725.jpg',
+      src: 'https://picsum.photos/400/400?random=1003',
       alt: 'Shared bedroom with bunk beds',
       title: 'Shared Options'
     },

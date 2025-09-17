@@ -11,7 +11,7 @@ export default function BuildingBanner() {
       className="w-full h-48 md:h-64"
     >
       <img 
-        src="https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/68cb02eeec03a977caa9230c/9bd29dd82_WEhdQ68w.jpg" 
+        src="https://picsum.photos/1920/400?random=900" 
         alt="Verde Gardens building exterior"
         className="w-full h-full object-cover object-center"
       />

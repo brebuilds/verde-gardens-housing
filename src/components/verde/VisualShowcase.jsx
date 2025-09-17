@@ -61,7 +61,7 @@ export default function VisualShowcase() {
             playsInline
             onPlay={() => setIsPlaying(true)}
             onPause={() => setIsPlaying(false)}
-            poster="https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/1dfe32c12_Hero.jpg"
+            poster="https://picsum.photos/1920/1080?random=500"
           >
             <source src="https://www.dropbox.com/scl/fi/w48zdusgzea4rzw9vjjqg/SEU-Apartment-Tour-Video.mp4?rlkey=4tib9v42cplph8phmntx4hidw&e=2&st=uhpo6squ&dl=1" type="video/mp4" />
             Your browser does not support the video tag.
