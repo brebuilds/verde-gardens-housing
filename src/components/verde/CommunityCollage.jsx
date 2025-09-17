@@ -4,35 +4,35 @@ import { motion } from 'framer-motion';
 
 const communityImages = [
   {
-    src: 'https://picsum.photos/400/300?random=800',
+    src: 'https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/68cb02eeec03a977caa9230c/62f681b93_verdegardens00001.jpg',
     alt: 'Students taking a selfie at SEU Arizona'
   },
   {
-    src: 'https://picsum.photos/400/300?random=801',
+    src: 'https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/68cb02eeec03a977caa9230c/83ba06f05_verdegardens00006.jpg',
     alt: 'Students celebrating in a classroom'
   },
   {
-    src: 'https://picsum.photos/400/300?random=802',
+    src: 'https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/68cb02eeec03a977caa9230c/2b7c62959_verdegardens00010.jpg',
     alt: 'SEU Arizona student portrait'
   },
   {
-    src: 'https://picsum.photos/400/300?random=803',
+    src: 'https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/68cb02eeec03a977caa9230c/eb0082361_verdegardens00005.jpg',
     alt: 'Large group of SEU Arizona students'
   },
   {
-    src: 'https://picsum.photos/400/300?random=804',
+    src: 'https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/68cb02eeec03a977caa9230c/b478c2a2a_verdegardens00008.jpg',
     alt: 'SEU Arizona classroom learning environment'
   },
   {
-    src: 'https://picsum.photos/400/300?random=805',
+    src: 'https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/68cb02eeec03a977caa9230c/34b3fe976_verdegardens00009.jpg',
     alt: 'SEU Arizona student with university materials'
   },
   {
-    src: 'https://picsum.photos/400/300?random=806',
+    src: 'https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/68cb02eeec03a977caa9230c/84c74e4d5_verdegardens00003.jpg',
     alt: 'A lecture in an SEU Arizona classroom'
   },
   {
-    src: 'https://picsum.photos/400/300?random=807',
+    src: 'https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/68cb02eeec03a977caa9230c/1b38af5c0_verdegardens00004.jpg',
     alt: 'SEU Arizona students in a lecture hall'
   },
 ];

@@ -36,7 +36,7 @@ export default function Header() {
 
         <nav className="max-w-7xl mx-auto px-6 py-4 flex justify-between items-center">
           <a href="#">
-            <img src="https://picsum.photos/200/80?random=200" alt="Verde Gardens Logo" className="h-16 w-auto" />
+            <img src="https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/68b202a5aaa3ba0b9af4ec94/6d4bdeb14_Verde.png" alt="Verde Gardens Logo" className="h-16 w-auto" />
           </a>
           <div className="hidden md:flex items-center gap-8">
             {navLinks.map((link) =>

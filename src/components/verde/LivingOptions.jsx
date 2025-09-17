@@ -18,7 +18,7 @@ const tiers = [
       { text: "Shared Bathroom", icon: <Bath size={16} /> }
     ], 
     icon: <Bed size={24} />,
-    image: "https://picsum.photos/400/300?random=300"
+    image: "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/932b44d0a_VG-SingleRoom.png"
   },
   { 
     name: "Shared Room - Twin Bed", 
@@ -31,7 +31,7 @@ const tiers = [
       { text: "Shared Bathroom", icon: <Bath size={16} /> }
     ], 
     icon: <Bed size={24} />,
-    image: "https://picsum.photos/400/300?random=301",
+    image: "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/a5f429167_VG-SharedBedroom-Left.png",
     // 'popular' property removed as per instructions
   },
   { 
@@ -45,7 +45,7 @@ const tiers = [
       { text: "Shared Bathroom", icon: <Bath size={16} /> }
     ], 
     icon: <Bed size={24} />,
-    image: "https://picsum.photos/400/300?random=302"
+    image: "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/2c049b396_VG-Bunks.png"
   },
 ];
 

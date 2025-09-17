@@ -2,7 +2,7 @@ import React from 'react';
 import { motion } from 'framer-motion';
 import { Sparkles } from 'lucide-react';
 
-const MATCHING_IMG = "https://picsum.photos/800/600?random=400";
+const MATCHING_IMG = "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/68cb02eeec03a977caa9230c/9f80111ea_verdegardens00002.jpg";
 
 export default function RoommateMatching() {
   return (

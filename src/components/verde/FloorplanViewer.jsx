@@ -4,7 +4,7 @@ import { motion } from 'framer-motion';
 import { ZoomIn, ZoomOut, RotateCcw, ChevronDown } from 'lucide-react';
 import SpotlightCard from '@/components/shared/SpotlightCard';
 
-const FLOORPLAN_IMG = "https://picsum.photos/800/600?random=600";
+const FLOORPLAN_IMG = "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/68b202a5aaa3ba0b9af4ec94/cc8026afd_floorplan.png";
 
 const faqs = [
   { q: "Do I need to bring any furniture?", a: "No. Apartments are fully furnished and ready to go with beds, sofas, tables, and more." },

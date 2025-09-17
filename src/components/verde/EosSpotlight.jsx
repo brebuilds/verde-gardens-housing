@@ -44,7 +44,7 @@ export default function EosSpotlight() {
             <div
               className="absolute inset-0 bg-cover bg-center"
               style={{
-                backgroundImage: `url('https://picsum.photos/1920/1080?random=700')`,
+                backgroundImage: `url('https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/4a19d8b1c_gymstock.jpg')`,
                 opacity: 0.3,
               }}
             />
@@ -94,7 +94,7 @@ export default function EosSpotlight() {
                             className="mt-6"
                         >
                             <a
-                                href="#"
+                                href="https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/68b202a5aaa3ba0b9af4ec94/aeaf7583e_AboutGym.pdf"
                                 target="_blank"
                                 rel="noopener noreferrer"
                                 className="inline-flex items-center gap-2 px-4 py-2 bg-red-600 hover:bg-red-700 text-white font-medium rounded-lg transition-colors duration-200 text-sm"
